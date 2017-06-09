@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">互联网周刊</string>
+    <string name="personal">个人中心</string>
+    <string name="book">书架</string>
+</resources>
